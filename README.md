@@ -1,34 +1,11 @@
-# 🐍 Python Scripts
+# Scripts e automações em Python
 
-A collection of small Python scripts and automation projects created during my studies.
+**Estado: espaço de estudos, ainda sem scripts publicados.**
 
----
+Este repositório foi iniciado em 2025. Os exemplos descritos na versão anterior do README eram planos e não correspondem a implementações disponíveis no branch principal. Novos utilitários serão adicionados quando houver uma aplicação concreta e verificável.
 
-## 📚 Contents
-- Core Python syntax and data types  
-- File handling and automation  
-- Data structures (lists, dicts, tuples)  
-- Useful utility scripts  
+O foco atual é desenvolver ferramentas para a rotina jurídica e manter uma frente cristocêntrica paralela. Acompanhe o [perfil de Rafael Rezende](https://github.com/ragrezende).
 
----
+O histórico Git foi preservado. Não há dados de clientes neste projeto.
 
-## ⚙️ Example Projects
-| Script | Purpose | Libraries |
-|---------|----------|------------|
-| Calculator | Performs basic arithmetic operations | Python |
-| File Organizer | Sorts files by extension | os |
-| Password Generator | Creates secure random passwords | random, string |
-| Currency Converter | Fetches exchange rates from an API | requests |
-
----
-
-## 🧠 Skills Developed
-✅ Programming logic and problem-solving  
-✅ Loops and conditionals  
-✅ File and string manipulation  
-✅ API requests and modular design  
-
----
-
-## 📬 Contact
-📧 **rafaelrezende.dev@gmail.com**
+<!-- Atualizado com apoio do Codex em 19/10/2026, conforme direção aprovada por Rafael. -->
